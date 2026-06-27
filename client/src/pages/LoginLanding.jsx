@@ -49,7 +49,7 @@ const LoginLanding = () => {
                 key={portal.to}
                 to={portal.to}
                 className="group block bg-slate-50 border border-slate-200
-              rounded-lg p-5 sm:p-6 transitio-all duratio-300 hover:border-indigo-400
+              rounded-lg p-5 sm:p-6 transitio-all duration-300 hover:border-indigo-400
               hover:bg-indigo-50"
               >
                 <div className="relative z-10 flex items-center justify-between gap-4 sm:gap-5">
