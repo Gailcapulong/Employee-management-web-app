@@ -117,7 +117,7 @@ const Sidebar = () => {
             font-medium transition-all duration-150 relative
             ${
               isActive
-                ? "bg-indigo-500/12 text-indigo-300"
+                ? "bg-indigo-600/12 text-indigo-300"
                 : "text-slate-300 hover:text-wite hover:bg-white/4"
             }`}
             >
